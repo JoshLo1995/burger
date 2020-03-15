@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Devour some tasty made up burgers",
-  "main": "index.js",
+  "main": "assets/js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
